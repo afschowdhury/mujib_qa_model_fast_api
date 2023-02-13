@@ -1,0 +1,98 @@
+[
+    {
+        "context": "On November 12, 1970, 1 million people died in East-Bengal due to severe storms and floods. Bangabandhu suspended his election campaign and jumped into relief work.",
+        "qas": [
+            {
+                "qtns": [
+                    "How many people died in 1970 strome at East Pakistan?",
+                    "How many people died at 1970 strome at Bangladesh?",
+                    "How many people died at 1970?",
+                    "What is the number of people died at 1970 strome at Bangladesh?"
+                ],
+                "exact_answer": "10 lac people",
+                "answer": "Almost 10 lac people died in 1970 strome in Bangladesh",
+                "tags": [
+                    NaN,
+                    "History"
+                ],
+                "date": "11-12-1970",
+                "year": 1970.0,
+                "location": [
+                    NaN,
+                    "East Bengal"
+                ],
+                "people": [
+                    NaN,
+                    NaN,
+                    NaN
+                ],
+                "event": "Flow Tide",
+                "mujib_relavant": "NO"
+            },
+            {
+                "qtns": [
+                    "Why did Sheikh Mujib stop the election campaign in 1970?",
+                    "Why did Bangabandhu stop election campaining?",
+                    NaN,
+                    " "
+                ],
+                "exact_answer": "For natural disasters",
+                "answer": "Bangabandhu postponed his election campaign due to natural calamities",
+                "tags": [
+                    NaN,
+                    "History"
+                ],
+                "date": NaN,
+                "year": 1970.0,
+                "location": [
+                    NaN,
+                    "East Bengal"
+                ],
+                "people": [
+                    NaN,
+                    NaN,
+                    NaN
+                ],
+                "event": "Flow Tide",
+                "mujib_relavant": "YES"
+            },
+            {
+                "qtns": [
+                    "Why 1 million people died in 1970?",
+                    "What was the reason of 1million people died in 1970?",
+                    NaN,
+                    NaN
+                ],
+                "exact_answer": "For natural disasters",
+                "answer": "In 1970, a million people died in East Bengal due to severe storms and floods.",
+                "tags": [
+                    NaN,
+                    "History"
+                ],
+                "date": "11-12-1970",
+                "year": 1970.0,
+                "location": [
+                    NaN,
+                    "East Bengal"
+                ],
+                "people": [
+                    NaN,
+                    NaN,
+                    NaN
+                ],
+                "event": "Flow Tide",
+                "mujib_relavant": "NO"
+            }
+        ]
+    },
+    {
+        "context": "In November 1953, Bangabandhu Sheikh Mujibur Rahman was elected as the general secretary of the then main opposition party 'East Pakistan Awami Muslim League'. On December 5, the United Front was formed under the leadership of Awami League along with other opposition parties. Bangabandhu started campaigning across the country.",
+        "qas": [
+            {
+                "qtns": [
+                    "In what year was Bangabandhu Sheikh Mujibur Rahman elected as the party's general secretary in the session of East Pakistan Awami Muslim League?",
+                    "In which year was Bangabandhu Sheikh Mujibur Rahman elected as the general secretary of the East Pakistan Awami Muslim League?",
+                    "In what year was Bangabandhu elected as the general secretary of the East Pakistan Awami Muslim League?",
+                    NaN
+                ],
+                "exact_answer": 

@@ -1,0 +1,12 @@
+fastapi
+openpyxl
+requests
+sentence-transformers
+tqdm
+numpy
+uvicorn[standard]
+pandas
+langdetect
+# scikit-learn
+# scipy
+avro.py
